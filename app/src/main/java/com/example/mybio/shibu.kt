@@ -1,0 +1,13 @@
+package com.example.mybio
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class shibu : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_shibu)
+
+
+    }
+}
